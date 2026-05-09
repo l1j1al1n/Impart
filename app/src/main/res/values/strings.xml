@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Impart</string>
+    <string name="subtitle">Smart memory from tiny fragments</string>
+    <string name="accessibility_service_label">Impart Capture</string>
+    <string name="accessibility_service_description">Collects selected text snippets for later organization.</string>
+    <string name="capture_ready_title">Capture layer ready</string>
+    <string name="capture_ready_body">Clipboard, accessibility, tags, search, and export all have a place to grow.</string>
+    <string name="switch_to_chinese">中文</string>
+    <string name="switch_to_english">EN</string>
+    <string name="filter_all">All</string>
+    <string name="filter_code">Code</string>
+    <string name="filter_link">Link</string>
+    <string name="filter_todo">Todo</string>
+</resources>
